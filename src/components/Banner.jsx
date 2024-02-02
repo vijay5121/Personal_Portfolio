@@ -8,7 +8,7 @@ const Banner = () => {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["UI/UX Developer", "Frontend Developer", "Backend Developer"], // Strings to display
+      strings: ["Cloud Developer", "Frontend Developer", "Backend Developer","Java Developer"], // Strings to display
       // Speed settings, try diffrent values untill you get good results
       startDelay: 100,
       typeSpeed: 50,
